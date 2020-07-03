@@ -5,6 +5,7 @@ A list of links about getting packets and bits into or out of old computers n pd
 * https://github.com/loboris/ESP32-PPPOS-EXAMPLE
 * https://github.com/ep00ch/esp32-at-ppp/
 * https://github.com/jsalin/esp8266_modem
+* http://podsix.org/articles/pimodem/
 * https://github.com/paulusmack/ppp
 * https://github.com/go4retro/tcpser
 * https://github.com/bozimmerman/Zimodem
